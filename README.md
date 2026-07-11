@@ -18,7 +18,16 @@ This project demonstrates the complete Machine Learning workflow, including data
 - Demonstrate practical application of regression algorithms.
 
 ---
+## Dataset
 
+The dataset used for this project is too large to be stored in this GitHub repository.
+
+You can download it from:
+
+**Kaggle:** https://www.kaggle.com/ (Add the exact dataset link here.)
+
+After downloading, place `train.csv` and `test.csv` in the project directory before running the notebook.
+---
 ## 🚀 Features
 
 - Interactive Streamlit dashboard
