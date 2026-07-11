@@ -24,7 +24,7 @@ The dataset used for this project is too large to be stored in this GitHub repos
 
 You can download it from:
 
-**Kaggle:** https://www.kaggle.com/ (Add the exact dataset link here.)
+**Kaggle:** (https://www.kaggle.com/datasets/naiyakhalid/flood-prediction-dataset?resource=download)
 
 After downloading, place `train.csv` and `test.csv` in the project directory before running the notebook.
 ---
